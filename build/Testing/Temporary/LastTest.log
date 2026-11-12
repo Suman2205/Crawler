@@ -1,0 +1,1155 @@
+Start testing: Jul 29 07:37 UTC
+----------------------------------------------------------
+1/42 Testing: HTMLParserTest.EmptyHTML
+1/42 Test: HTMLParserTest.EmptyHTML
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=HTMLParserTest.EmptyHTML" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"HTMLParserTest.EmptyHTML" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = HTMLParserTest.EmptyHTML
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HTMLParserTest
+[ RUN      ] HTMLParserTest.EmptyHTML
+[       OK ] HTMLParserTest.EmptyHTML (0 ms)
+[----------] 1 test from HTMLParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"HTMLParserTest.EmptyHTML" end time: Jul 29 07:37 UTC
+"HTMLParserTest.EmptyHTML" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/42 Testing: HTMLParserTest.NoBodyTag
+2/42 Test: HTMLParserTest.NoBodyTag
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=HTMLParserTest.NoBodyTag" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"HTMLParserTest.NoBodyTag" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = HTMLParserTest.NoBodyTag
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HTMLParserTest
+[ RUN      ] HTMLParserTest.NoBodyTag
+[       OK ] HTMLParserTest.NoBodyTag (0 ms)
+[----------] 1 test from HTMLParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HTMLParserTest.NoBodyTag" end time: Jul 29 07:37 UTC
+"HTMLParserTest.NoBodyTag" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/42 Testing: HTMLParserTest.ExtractSimpleText
+3/42 Test: HTMLParserTest.ExtractSimpleText
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=HTMLParserTest.ExtractSimpleText" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"HTMLParserTest.ExtractSimpleText" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = HTMLParserTest.ExtractSimpleText
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HTMLParserTest
+[ RUN      ] HTMLParserTest.ExtractSimpleText
+[       OK ] HTMLParserTest.ExtractSimpleText (0 ms)
+[----------] 1 test from HTMLParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"HTMLParserTest.ExtractSimpleText" end time: Jul 29 07:37 UTC
+"HTMLParserTest.ExtractSimpleText" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/42 Testing: HTMLParserTest.ExtractTextFromNestedTags
+4/42 Test: HTMLParserTest.ExtractTextFromNestedTags
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=HTMLParserTest.ExtractTextFromNestedTags" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"HTMLParserTest.ExtractTextFromNestedTags" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = HTMLParserTest.ExtractTextFromNestedTags
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HTMLParserTest
+[ RUN      ] HTMLParserTest.ExtractTextFromNestedTags
+[       OK ] HTMLParserTest.ExtractTextFromNestedTags (0 ms)
+[----------] 1 test from HTMLParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"HTMLParserTest.ExtractTextFromNestedTags" end time: Jul 29 07:37 UTC
+"HTMLParserTest.ExtractTextFromNestedTags" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/42 Testing: HTMLParserTest.IgnoreHiddenContent
+5/42 Test: HTMLParserTest.IgnoreHiddenContent
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=HTMLParserTest.IgnoreHiddenContent" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"HTMLParserTest.IgnoreHiddenContent" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = HTMLParserTest.IgnoreHiddenContent
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HTMLParserTest
+[ RUN      ] HTMLParserTest.IgnoreHiddenContent
+[       OK ] HTMLParserTest.IgnoreHiddenContent (0 ms)
+[----------] 1 test from HTMLParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"HTMLParserTest.IgnoreHiddenContent" end time: Jul 29 07:37 UTC
+"HTMLParserTest.IgnoreHiddenContent" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/42 Testing: HTMLParserTest.BodyAttributesAndCaseInsensitive
+6/42 Test: HTMLParserTest.BodyAttributesAndCaseInsensitive
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=HTMLParserTest.BodyAttributesAndCaseInsensitive" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"HTMLParserTest.BodyAttributesAndCaseInsensitive" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = HTMLParserTest.BodyAttributesAndCaseInsensitive
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HTMLParserTest
+[ RUN      ] HTMLParserTest.BodyAttributesAndCaseInsensitive
+[       OK ] HTMLParserTest.BodyAttributesAndCaseInsensitive (0 ms)
+[----------] 1 test from HTMLParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HTMLParserTest.BodyAttributesAndCaseInsensitive" end time: Jul 29 07:37 UTC
+"HTMLParserTest.BodyAttributesAndCaseInsensitive" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/42 Testing: HTMLParserTest.TrimWhitespace
+7/42 Test: HTMLParserTest.TrimWhitespace
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=HTMLParserTest.TrimWhitespace" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"HTMLParserTest.TrimWhitespace" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = HTMLParserTest.TrimWhitespace
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HTMLParserTest
+[ RUN      ] HTMLParserTest.TrimWhitespace
+[       OK ] HTMLParserTest.TrimWhitespace (0 ms)
+[----------] 1 test from HTMLParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HTMLParserTest.TrimWhitespace" end time: Jul 29 07:37 UTC
+"HTMLParserTest.TrimWhitespace" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/42 Testing: HTMLParserTest.IgnoreWhitespaceOnlyText
+8/42 Test: HTMLParserTest.IgnoreWhitespaceOnlyText
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=HTMLParserTest.IgnoreWhitespaceOnlyText" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"HTMLParserTest.IgnoreWhitespaceOnlyText" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = HTMLParserTest.IgnoreWhitespaceOnlyText
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HTMLParserTest
+[ RUN      ] HTMLParserTest.IgnoreWhitespaceOnlyText
+[       OK ] HTMLParserTest.IgnoreWhitespaceOnlyText (0 ms)
+[----------] 1 test from HTMLParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HTMLParserTest.IgnoreWhitespaceOnlyText" end time: Jul 29 07:37 UTC
+"HTMLParserTest.IgnoreWhitespaceOnlyText" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/42 Testing: HTMLParserTest.IgnoreContentOutsideBody
+9/42 Test: HTMLParserTest.IgnoreContentOutsideBody
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=HTMLParserTest.IgnoreContentOutsideBody" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"HTMLParserTest.IgnoreContentOutsideBody" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = HTMLParserTest.IgnoreContentOutsideBody
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HTMLParserTest
+[ RUN      ] HTMLParserTest.IgnoreContentOutsideBody
+[       OK ] HTMLParserTest.IgnoreContentOutsideBody (0 ms)
+[----------] 1 test from HTMLParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HTMLParserTest.IgnoreContentOutsideBody" end time: Jul 29 07:37 UTC
+"HTMLParserTest.IgnoreContentOutsideBody" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/42 Testing: HTMLParserTest.ComplexHTML
+10/42 Test: HTMLParserTest.ComplexHTML
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=HTMLParserTest.ComplexHTML" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"HTMLParserTest.ComplexHTML" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = HTMLParserTest.ComplexHTML
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HTMLParserTest
+[ RUN      ] HTMLParserTest.ComplexHTML
+[       OK ] HTMLParserTest.ComplexHTML (0 ms)
+[----------] 1 test from HTMLParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HTMLParserTest.ComplexHTML" end time: Jul 29 07:37 UTC
+"HTMLParserTest.ComplexHTML" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/42 Testing: TokenizerTest.EmptyInput
+11/42 Test: TokenizerTest.EmptyInput
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=TokenizerTest.EmptyInput" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"TokenizerTest.EmptyInput" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = TokenizerTest.EmptyInput
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TokenizerTest
+[ RUN      ] TokenizerTest.EmptyInput
+[       OK ] TokenizerTest.EmptyInput (0 ms)
+[----------] 1 test from TokenizerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TokenizerTest.EmptyInput" end time: Jul 29 07:37 UTC
+"TokenizerTest.EmptyInput" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/42 Testing: TokenizerTest.TokenizeSimpleSentence
+12/42 Test: TokenizerTest.TokenizeSimpleSentence
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=TokenizerTest.TokenizeSimpleSentence" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"TokenizerTest.TokenizeSimpleSentence" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = TokenizerTest.TokenizeSimpleSentence
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TokenizerTest
+[ RUN      ] TokenizerTest.TokenizeSimpleSentence
+[       OK ] TokenizerTest.TokenizeSimpleSentence (0 ms)
+[----------] 1 test from TokenizerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TokenizerTest.TokenizeSimpleSentence" end time: Jul 29 07:37 UTC
+"TokenizerTest.TokenizeSimpleSentence" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/42 Testing: TokenizerTest.NormalizeWords
+13/42 Test: TokenizerTest.NormalizeWords
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=TokenizerTest.NormalizeWords" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"TokenizerTest.NormalizeWords" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = TokenizerTest.NormalizeWords
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TokenizerTest
+[ RUN      ] TokenizerTest.NormalizeWords
+[       OK ] TokenizerTest.NormalizeWords (0 ms)
+[----------] 1 test from TokenizerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TokenizerTest.NormalizeWords" end time: Jul 29 07:37 UTC
+"TokenizerTest.NormalizeWords" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/42 Testing: TokenizerTest.IgnoreNumbers
+14/42 Test: TokenizerTest.IgnoreNumbers
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=TokenizerTest.IgnoreNumbers" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"TokenizerTest.IgnoreNumbers" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = TokenizerTest.IgnoreNumbers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TokenizerTest
+[ RUN      ] TokenizerTest.IgnoreNumbers
+[       OK ] TokenizerTest.IgnoreNumbers (0 ms)
+[----------] 1 test from TokenizerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TokenizerTest.IgnoreNumbers" end time: Jul 29 07:37 UTC
+"TokenizerTest.IgnoreNumbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/42 Testing: TokenizerTest.IgnorePunctuationOnlyTokens
+15/42 Test: TokenizerTest.IgnorePunctuationOnlyTokens
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=TokenizerTest.IgnorePunctuationOnlyTokens" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"TokenizerTest.IgnorePunctuationOnlyTokens" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = TokenizerTest.IgnorePunctuationOnlyTokens
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TokenizerTest
+[ RUN      ] TokenizerTest.IgnorePunctuationOnlyTokens
+[       OK ] TokenizerTest.IgnorePunctuationOnlyTokens (0 ms)
+[----------] 1 test from TokenizerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TokenizerTest.IgnorePunctuationOnlyTokens" end time: Jul 29 07:37 UTC
+"TokenizerTest.IgnorePunctuationOnlyTokens" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/42 Testing: TokenizerTest.MultipleTextBlocks
+16/42 Test: TokenizerTest.MultipleTextBlocks
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=TokenizerTest.MultipleTextBlocks" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"TokenizerTest.MultipleTextBlocks" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = TokenizerTest.MultipleTextBlocks
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TokenizerTest
+[ RUN      ] TokenizerTest.MultipleTextBlocks
+[       OK ] TokenizerTest.MultipleTextBlocks (0 ms)
+[----------] 1 test from TokenizerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TokenizerTest.MultipleTextBlocks" end time: Jul 29 07:37 UTC
+"TokenizerTest.MultipleTextBlocks" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/42 Testing: TokenizerTest.MixedInput
+17/42 Test: TokenizerTest.MixedInput
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=TokenizerTest.MixedInput" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"TokenizerTest.MixedInput" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = TokenizerTest.MixedInput
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TokenizerTest
+[ RUN      ] TokenizerTest.MixedInput
+[       OK ] TokenizerTest.MixedInput (0 ms)
+[----------] 1 test from TokenizerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TokenizerTest.MixedInput" end time: Jul 29 07:37 UTC
+"TokenizerTest.MixedInput" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/42 Testing: TokenizerTest.HyphenAndApostropheWords
+18/42 Test: TokenizerTest.HyphenAndApostropheWords
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=TokenizerTest.HyphenAndApostropheWords" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"TokenizerTest.HyphenAndApostropheWords" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = TokenizerTest.HyphenAndApostropheWords
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TokenizerTest
+[ RUN      ] TokenizerTest.HyphenAndApostropheWords
+[       OK ] TokenizerTest.HyphenAndApostropheWords (0 ms)
+[----------] 1 test from TokenizerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TokenizerTest.HyphenAndApostropheWords" end time: Jul 29 07:37 UTC
+"TokenizerTest.HyphenAndApostropheWords" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/42 Testing: StopWordRemoverTest.EmptyInput
+19/42 Test: StopWordRemoverTest.EmptyInput
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=StopWordRemoverTest.EmptyInput" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"StopWordRemoverTest.EmptyInput" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = StopWordRemoverTest.EmptyInput
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StopWordRemoverTest
+[ RUN      ] StopWordRemoverTest.EmptyInput
+[       OK ] StopWordRemoverTest.EmptyInput (0 ms)
+[----------] 1 test from StopWordRemoverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StopWordRemoverTest.EmptyInput" end time: Jul 29 07:37 UTC
+"StopWordRemoverTest.EmptyInput" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/42 Testing: StopWordRemoverTest.RemoveStopWords
+20/42 Test: StopWordRemoverTest.RemoveStopWords
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=StopWordRemoverTest.RemoveStopWords" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"StopWordRemoverTest.RemoveStopWords" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = StopWordRemoverTest.RemoveStopWords
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StopWordRemoverTest
+[ RUN      ] StopWordRemoverTest.RemoveStopWords
+[       OK ] StopWordRemoverTest.RemoveStopWords (0 ms)
+[----------] 1 test from StopWordRemoverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StopWordRemoverTest.RemoveStopWords" end time: Jul 29 07:37 UTC
+"StopWordRemoverTest.RemoveStopWords" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/42 Testing: StopWordRemoverTest.KeepNonStopWords
+21/42 Test: StopWordRemoverTest.KeepNonStopWords
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=StopWordRemoverTest.KeepNonStopWords" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"StopWordRemoverTest.KeepNonStopWords" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = StopWordRemoverTest.KeepNonStopWords
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StopWordRemoverTest
+[ RUN      ] StopWordRemoverTest.KeepNonStopWords
+[       OK ] StopWordRemoverTest.KeepNonStopWords (0 ms)
+[----------] 1 test from StopWordRemoverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StopWordRemoverTest.KeepNonStopWords" end time: Jul 29 07:37 UTC
+"StopWordRemoverTest.KeepNonStopWords" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/42 Testing: StopWordRemoverTest.IgnoreEmptyStrings
+22/42 Test: StopWordRemoverTest.IgnoreEmptyStrings
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=StopWordRemoverTest.IgnoreEmptyStrings" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"StopWordRemoverTest.IgnoreEmptyStrings" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = StopWordRemoverTest.IgnoreEmptyStrings
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StopWordRemoverTest
+[ RUN      ] StopWordRemoverTest.IgnoreEmptyStrings
+[       OK ] StopWordRemoverTest.IgnoreEmptyStrings (0 ms)
+[----------] 1 test from StopWordRemoverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StopWordRemoverTest.IgnoreEmptyStrings" end time: Jul 29 07:37 UTC
+"StopWordRemoverTest.IgnoreEmptyStrings" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/42 Testing: StopWordRemoverTest.MixedTokens
+23/42 Test: StopWordRemoverTest.MixedTokens
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=StopWordRemoverTest.MixedTokens" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"StopWordRemoverTest.MixedTokens" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = StopWordRemoverTest.MixedTokens
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StopWordRemoverTest
+[ RUN      ] StopWordRemoverTest.MixedTokens
+[       OK ] StopWordRemoverTest.MixedTokens (0 ms)
+[----------] 1 test from StopWordRemoverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"StopWordRemoverTest.MixedTokens" end time: Jul 29 07:37 UTC
+"StopWordRemoverTest.MixedTokens" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/42 Testing: StopWordRemoverTest.AllStopWords
+24/42 Test: StopWordRemoverTest.AllStopWords
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=StopWordRemoverTest.AllStopWords" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"StopWordRemoverTest.AllStopWords" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = StopWordRemoverTest.AllStopWords
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StopWordRemoverTest
+[ RUN      ] StopWordRemoverTest.AllStopWords
+[       OK ] StopWordRemoverTest.AllStopWords (0 ms)
+[----------] 1 test from StopWordRemoverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StopWordRemoverTest.AllStopWords" end time: Jul 29 07:37 UTC
+"StopWordRemoverTest.AllStopWords" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/42 Testing: InvertedIndexTest.EmptyIndex
+25/42 Test: InvertedIndexTest.EmptyIndex
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=InvertedIndexTest.EmptyIndex" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"InvertedIndexTest.EmptyIndex" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = InvertedIndexTest.EmptyIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from InvertedIndexTest
+[ RUN      ] InvertedIndexTest.EmptyIndex
+[       OK ] InvertedIndexTest.EmptyIndex (0 ms)
+[----------] 1 test from InvertedIndexTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"InvertedIndexTest.EmptyIndex" end time: Jul 29 07:37 UTC
+"InvertedIndexTest.EmptyIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/42 Testing: InvertedIndexTest.InsertNewWord
+26/42 Test: InvertedIndexTest.InsertNewWord
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=InvertedIndexTest.InsertNewWord" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"InvertedIndexTest.InsertNewWord" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = InvertedIndexTest.InsertNewWord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from InvertedIndexTest
+[ RUN      ] InvertedIndexTest.InsertNewWord
+[       OK ] InvertedIndexTest.InsertNewWord (0 ms)
+[----------] 1 test from InvertedIndexTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"InvertedIndexTest.InsertNewWord" end time: Jul 29 07:37 UTC
+"InvertedIndexTest.InsertNewWord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/42 Testing: InvertedIndexTest.InsertSameWordDifferentPages
+27/42 Test: InvertedIndexTest.InsertSameWordDifferentPages
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=InvertedIndexTest.InsertSameWordDifferentPages" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"InvertedIndexTest.InsertSameWordDifferentPages" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = InvertedIndexTest.InsertSameWordDifferentPages
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from InvertedIndexTest
+[ RUN      ] InvertedIndexTest.InsertSameWordDifferentPages
+[       OK ] InvertedIndexTest.InsertSameWordDifferentPages (1 ms)
+[----------] 1 test from InvertedIndexTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"InvertedIndexTest.InsertSameWordDifferentPages" end time: Jul 29 07:37 UTC
+"InvertedIndexTest.InsertSameWordDifferentPages" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/42 Testing: InvertedIndexTest.UpdateExistingPosting
+28/42 Test: InvertedIndexTest.UpdateExistingPosting
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=InvertedIndexTest.UpdateExistingPosting" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"InvertedIndexTest.UpdateExistingPosting" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = InvertedIndexTest.UpdateExistingPosting
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from InvertedIndexTest
+[ RUN      ] InvertedIndexTest.UpdateExistingPosting
+[       OK ] InvertedIndexTest.UpdateExistingPosting (0 ms)
+[----------] 1 test from InvertedIndexTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"InvertedIndexTest.UpdateExistingPosting" end time: Jul 29 07:37 UTC
+"InvertedIndexTest.UpdateExistingPosting" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/42 Testing: InvertedIndexTest.MultipleWords
+29/42 Test: InvertedIndexTest.MultipleWords
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=InvertedIndexTest.MultipleWords" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"InvertedIndexTest.MultipleWords" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = InvertedIndexTest.MultipleWords
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from InvertedIndexTest
+[ RUN      ] InvertedIndexTest.MultipleWords
+[       OK ] InvertedIndexTest.MultipleWords (0 ms)
+[----------] 1 test from InvertedIndexTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"InvertedIndexTest.MultipleWords" end time: Jul 29 07:37 UTC
+"InvertedIndexTest.MultipleWords" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/42 Testing: InvertedIndexTest.ClearIndex
+30/42 Test: InvertedIndexTest.ClearIndex
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=InvertedIndexTest.ClearIndex" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"InvertedIndexTest.ClearIndex" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = InvertedIndexTest.ClearIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from InvertedIndexTest
+[ RUN      ] InvertedIndexTest.ClearIndex
+[       OK ] InvertedIndexTest.ClearIndex (0 ms)
+[----------] 1 test from InvertedIndexTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"InvertedIndexTest.ClearIndex" end time: Jul 29 07:37 UTC
+"InvertedIndexTest.ClearIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/42 Testing: IndexStorageTest.InitializeDatabase
+31/42 Test: IndexStorageTest.InitializeDatabase
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=IndexStorageTest.InitializeDatabase" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"IndexStorageTest.InitializeDatabase" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = IndexStorageTest.InitializeDatabase
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexStorageTest
+[ RUN      ] IndexStorageTest.InitializeDatabase
+Database connected successfully.
+[       OK ] IndexStorageTest.InitializeDatabase (61 ms)
+[----------] 1 test from IndexStorageTest (61 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (61 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"IndexStorageTest.InitializeDatabase" end time: Jul 29 07:37 UTC
+"IndexStorageTest.InitializeDatabase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/42 Testing: IndexStorageTest.SaveAndLoadSinglePage
+32/42 Test: IndexStorageTest.SaveAndLoadSinglePage
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=IndexStorageTest.SaveAndLoadSinglePage" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"IndexStorageTest.SaveAndLoadSinglePage" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = IndexStorageTest.SaveAndLoadSinglePage
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexStorageTest
+[ RUN      ] IndexStorageTest.SaveAndLoadSinglePage
+Database connected successfully.
+[       OK ] IndexStorageTest.SaveAndLoadSinglePage (141 ms)
+[----------] 1 test from IndexStorageTest (141 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (141 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"IndexStorageTest.SaveAndLoadSinglePage" end time: Jul 29 07:37 UTC
+"IndexStorageTest.SaveAndLoadSinglePage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/42 Testing: IndexStorageTest.SaveMultiplePages
+33/42 Test: IndexStorageTest.SaveMultiplePages
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=IndexStorageTest.SaveMultiplePages" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"IndexStorageTest.SaveMultiplePages" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = IndexStorageTest.SaveMultiplePages
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexStorageTest
+[ RUN      ] IndexStorageTest.SaveMultiplePages
+Database connected successfully.
+[       OK ] IndexStorageTest.SaveMultiplePages (145 ms)
+[----------] 1 test from IndexStorageTest (145 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (146 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.17 sec
+----------------------------------------------------------
+Test Passed.
+"IndexStorageTest.SaveMultiplePages" end time: Jul 29 07:37 UTC
+"IndexStorageTest.SaveMultiplePages" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/42 Testing: IndexStorageTest.LoadEmptyDatabase
+34/42 Test: IndexStorageTest.LoadEmptyDatabase
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=IndexStorageTest.LoadEmptyDatabase" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"IndexStorageTest.LoadEmptyDatabase" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = IndexStorageTest.LoadEmptyDatabase
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexStorageTest
+[ RUN      ] IndexStorageTest.LoadEmptyDatabase
+Database connected successfully.
+[       OK ] IndexStorageTest.LoadEmptyDatabase (47 ms)
+[----------] 1 test from IndexStorageTest (47 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (48 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"IndexStorageTest.LoadEmptyDatabase" end time: Jul 29 07:37 UTC
+"IndexStorageTest.LoadEmptyDatabase" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/42 Testing: IndexStorageTest.ClearStorage
+35/42 Test: IndexStorageTest.ClearStorage
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=IndexStorageTest.ClearStorage" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"IndexStorageTest.ClearStorage" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = IndexStorageTest.ClearStorage
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexStorageTest
+[ RUN      ] IndexStorageTest.ClearStorage
+Database connected successfully.
+[       OK ] IndexStorageTest.ClearStorage (99 ms)
+[----------] 1 test from IndexStorageTest (99 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (100 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"IndexStorageTest.ClearStorage" end time: Jul 29 07:37 UTC
+"IndexStorageTest.ClearStorage" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/42 Testing: IndexStorageTest.PreserveFrequency
+36/42 Test: IndexStorageTest.PreserveFrequency
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=IndexStorageTest.PreserveFrequency" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"IndexStorageTest.PreserveFrequency" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = IndexStorageTest.PreserveFrequency
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexStorageTest
+[ RUN      ] IndexStorageTest.PreserveFrequency
+Database connected successfully.
+[       OK ] IndexStorageTest.PreserveFrequency (121 ms)
+[----------] 1 test from IndexStorageTest (121 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (121 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"IndexStorageTest.PreserveFrequency" end time: Jul 29 07:37 UTC
+"IndexStorageTest.PreserveFrequency" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/42 Testing: IndexerTest.Constructor
+37/42 Test: IndexerTest.Constructor
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=IndexerTest.Constructor" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"IndexerTest.Constructor" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = IndexerTest.Constructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexerTest
+[ RUN      ] IndexerTest.Constructor
+Database connected successfully.
+Database connected successfully.
+[       OK ] IndexerTest.Constructor (29 ms)
+[----------] 1 test from IndexerTest (29 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (30 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"IndexerTest.Constructor" end time: Jul 29 07:37 UTC
+"IndexerTest.Constructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/42 Testing: IndexerTest.SearchBeforeBuildingIndex
+38/42 Test: IndexerTest.SearchBeforeBuildingIndex
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=IndexerTest.SearchBeforeBuildingIndex" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"IndexerTest.SearchBeforeBuildingIndex" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = IndexerTest.SearchBeforeBuildingIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexerTest
+[ RUN      ] IndexerTest.SearchBeforeBuildingIndex
+Database connected successfully.
+Database connected successfully.
+[       OK ] IndexerTest.SearchBeforeBuildingIndex (31 ms)
+[----------] 1 test from IndexerTest (31 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (32 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"IndexerTest.SearchBeforeBuildingIndex" end time: Jul 29 07:37 UTC
+"IndexerTest.SearchBeforeBuildingIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/42 Testing: IndexerTest.BuildIndex
+39/42 Test: IndexerTest.BuildIndex
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=IndexerTest.BuildIndex" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"IndexerTest.BuildIndex" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = IndexerTest.BuildIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexerTest
+[ RUN      ] IndexerTest.BuildIndex
+Database connected successfully.
+Database connected successfully.
+[       OK ] IndexerTest.BuildIndex (37 ms)
+[----------] 1 test from IndexerTest (37 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (38 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"IndexerTest.BuildIndex" end time: Jul 29 07:37 UTC
+"IndexerTest.BuildIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/42 Testing: IndexerTest.SearchExistingWord
+40/42 Test: IndexerTest.SearchExistingWord
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=IndexerTest.SearchExistingWord" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"IndexerTest.SearchExistingWord" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = IndexerTest.SearchExistingWord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexerTest
+[ RUN      ] IndexerTest.SearchExistingWord
+Database connected successfully.
+Database connected successfully.
+[       OK ] IndexerTest.SearchExistingWord (55 ms)
+[----------] 1 test from IndexerTest (55 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (56 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"IndexerTest.SearchExistingWord" end time: Jul 29 07:37 UTC
+"IndexerTest.SearchExistingWord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/42 Testing: IndexerTest.SearchMissingWord
+41/42 Test: IndexerTest.SearchMissingWord
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=IndexerTest.SearchMissingWord" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"IndexerTest.SearchMissingWord" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = IndexerTest.SearchMissingWord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexerTest
+[ RUN      ] IndexerTest.SearchMissingWord
+Database connected successfully.
+Database connected successfully.
+[       OK ] IndexerTest.SearchMissingWord (39 ms)
+[----------] 1 test from IndexerTest (39 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (40 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"IndexerTest.SearchMissingWord" end time: Jul 29 07:37 UTC
+"IndexerTest.SearchMissingWord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/42 Testing: IndexerTest.RebuildIndex
+42/42 Test: IndexerTest.RebuildIndex
+Command: "/mnt/c/Users/suman/Desktop/Crawler/build/URLNormalizerTesting" "--gtest_filter=IndexerTest.RebuildIndex" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/suman/Desktop/Crawler/build
+"IndexerTest.RebuildIndex" start time: Jul 29 07:37 UTC
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = IndexerTest.RebuildIndex
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IndexerTest
+[ RUN      ] IndexerTest.RebuildIndex
+Database connected successfully.
+Database connected successfully.
+[       OK ] IndexerTest.RebuildIndex (18 ms)
+[----------] 1 test from IndexerTest (18 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (18 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"IndexerTest.RebuildIndex" end time: Jul 29 07:37 UTC
+"IndexerTest.RebuildIndex" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 29 07:37 UTC

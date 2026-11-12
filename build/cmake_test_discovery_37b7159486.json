@@ -1,0 +1,252 @@
+{
+  "tests": 42,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "HTMLParserTest",
+      "tests": 10,
+      "testsuite": [
+        {
+          "name": "EmptyHTML",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/HTMLParserTest.cpp",
+          "line": 12
+        },
+        {
+          "name": "NoBodyTag",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/HTMLParserTest.cpp",
+          "line": 25
+        },
+        {
+          "name": "ExtractSimpleText",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/HTMLParserTest.cpp",
+          "line": 44
+        },
+        {
+          "name": "ExtractTextFromNestedTags",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/HTMLParserTest.cpp",
+          "line": 66
+        },
+        {
+          "name": "IgnoreHiddenContent",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/HTMLParserTest.cpp",
+          "line": 87
+        },
+        {
+          "name": "BodyAttributesAndCaseInsensitive",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/HTMLParserTest.cpp",
+          "line": 112
+        },
+        {
+          "name": "TrimWhitespace",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/HTMLParserTest.cpp",
+          "line": 132
+        },
+        {
+          "name": "IgnoreWhitespaceOnlyText",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/HTMLParserTest.cpp",
+          "line": 152
+        },
+        {
+          "name": "IgnoreContentOutsideBody",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/HTMLParserTest.cpp",
+          "line": 168
+        },
+        {
+          "name": "ComplexHTML",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/HTMLParserTest.cpp",
+          "line": 187
+        }
+      ]
+    },
+    {
+      "name": "TokenizerTest",
+      "tests": 8,
+      "testsuite": [
+        {
+          "name": "EmptyInput",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/TokenizerTest.cpp",
+          "line": 12
+        },
+        {
+          "name": "TokenizeSimpleSentence",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/TokenizerTest.cpp",
+          "line": 27
+        },
+        {
+          "name": "NormalizeWords",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/TokenizerTest.cpp",
+          "line": 46
+        },
+        {
+          "name": "IgnoreNumbers",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/TokenizerTest.cpp",
+          "line": 66
+        },
+        {
+          "name": "IgnorePunctuationOnlyTokens",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/TokenizerTest.cpp",
+          "line": 85
+        },
+        {
+          "name": "MultipleTextBlocks",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/TokenizerTest.cpp",
+          "line": 103
+        },
+        {
+          "name": "MixedInput",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/TokenizerTest.cpp",
+          "line": 125
+        },
+        {
+          "name": "HyphenAndApostropheWords",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/TokenizerTest.cpp",
+          "line": 146
+        }
+      ]
+    },
+    {
+      "name": "StopWordRemoverTest",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "EmptyInput",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/StopWordRemoverTest.cpp",
+          "line": 12
+        },
+        {
+          "name": "RemoveStopWords",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/StopWordRemoverTest.cpp",
+          "line": 27
+        },
+        {
+          "name": "KeepNonStopWords",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/StopWordRemoverTest.cpp",
+          "line": 51
+        },
+        {
+          "name": "IgnoreEmptyStrings",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/StopWordRemoverTest.cpp",
+          "line": 73
+        },
+        {
+          "name": "MixedTokens",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/StopWordRemoverTest.cpp",
+          "line": 95
+        },
+        {
+          "name": "AllStopWords",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/StopWordRemoverTest.cpp",
+          "line": 120
+        }
+      ]
+    },
+    {
+      "name": "InvertedIndexTest",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "EmptyIndex",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/InvertedIndexTest.cpp",
+          "line": 8
+        },
+        {
+          "name": "InsertNewWord",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/InvertedIndexTest.cpp",
+          "line": 20
+        },
+        {
+          "name": "InsertSameWordDifferentPages",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/InvertedIndexTest.cpp",
+          "line": 40
+        },
+        {
+          "name": "UpdateExistingPosting",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/InvertedIndexTest.cpp",
+          "line": 64
+        },
+        {
+          "name": "MultipleWords",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/InvertedIndexTest.cpp",
+          "line": 83
+        },
+        {
+          "name": "ClearIndex",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/InvertedIndexTest.cpp",
+          "line": 102
+        }
+      ]
+    },
+    {
+      "name": "IndexStorageTest",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "InitializeDatabase",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/IndexStorageTest.cpp",
+          "line": 12
+        },
+        {
+          "name": "SaveAndLoadSinglePage",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/IndexStorageTest.cpp",
+          "line": 25
+        },
+        {
+          "name": "SaveMultiplePages",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/IndexStorageTest.cpp",
+          "line": 53
+        },
+        {
+          "name": "LoadEmptyDatabase",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/IndexStorageTest.cpp",
+          "line": 87
+        },
+        {
+          "name": "ClearStorage",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/IndexStorageTest.cpp",
+          "line": 106
+        },
+        {
+          "name": "PreserveFrequency",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/IndexStorageTest.cpp",
+          "line": 130
+        }
+      ]
+    },
+    {
+      "name": "IndexerTest",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "Constructor",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/IndexerTest.cpp",
+          "line": 11
+        },
+        {
+          "name": "SearchBeforeBuildingIndex",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/IndexerTest.cpp",
+          "line": 23
+        },
+        {
+          "name": "BuildIndex",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/IndexerTest.cpp",
+          "line": 38
+        },
+        {
+          "name": "SearchExistingWord",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/IndexerTest.cpp",
+          "line": 52
+        },
+        {
+          "name": "SearchMissingWord",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/IndexerTest.cpp",
+          "line": 77
+        },
+        {
+          "name": "RebuildIndex",
+          "file": "\/mnt\/c\/Users\/suman\/Desktop\/Crawler\/testing\/IndexerTest.cpp",
+          "line": 94
+        }
+      ]
+    }
+  ]
+}
